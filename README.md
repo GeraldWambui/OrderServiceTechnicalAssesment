@@ -610,7 +610,7 @@ Alert: P95 > 500ms, P99 > 2s
 Action: Scale API servers, check DB performance
 ```
 
-#### **2. Database Connection Pool Usage**
+#### **2. Database Connection Pool Usage Size**
 ```
 Why: Prevents connection exhaustion
 Alert: >80% pool utilization
